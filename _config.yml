@@ -46,6 +46,9 @@ social:
   - service: facebook
     username: Bryan Prather-Huff
     link: https://www.facebook.com/Bryan.Prather.Huff
+  - service: linkedin
+    username: bryan-prather-huff
+    link: https://www.linkedin.com/in/bryan-prather-huff-368116102
 
 # Plugins
 gems:
