@@ -19,7 +19,7 @@ sass:
   style: compressed
 
 # Theme settings
-theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown', 'dark-grey', 'solarized-dark'
+theme_mode: markdown # choices are: 'dark', 'standard', 'markdown', 'dark-grey', 'solarized-dark'
 
 # Customizations
 your_name: Bryan Prather-Huff
