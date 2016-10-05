@@ -41,14 +41,17 @@ projects:
 
 social:
   - service: github
-    username: bryandph
+    username: GitHub
     link: https://github.com/bryandph
   - service: facebook
-    username: Bryan Prather-Huff
+    username: Facebook
     link: https://www.facebook.com/Bryan.Prather.Huff
   - service: linkedin
-    username: bryan-prather-huff
+    username: Linkedin
     link: https://www.linkedin.com/in/bryan-prather-huff-368116102
+  - service: spotify
+    username: Spotify
+    link: https://open.spotify.com/user/1218050924
 
 # Plugins
 gems:
