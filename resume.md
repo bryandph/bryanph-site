@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: resume
+permalink: resume.html
 ---
 
 # Bryan Prather-Huff
