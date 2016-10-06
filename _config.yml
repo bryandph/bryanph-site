@@ -9,7 +9,6 @@
 title: BryanPH
 url: https://bryanph.com  # the base hostname & protocol for your site
 repository: https://github.com/bryandph/bryanph-site
-description: Built with <a href="https://jekyllrb.com/">Jekyll</a> utilizing <a href="http://hackcss.com/">hackcss</a>!
 
 # Build settings
 markdown: kramdown
