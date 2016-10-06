@@ -43,9 +43,9 @@ social:
   - service: github
     username: GitHub
     link: https://github.com/bryandph
-  - service: facebook
-    username: Facebook
-    link: https://www.facebook.com/Bryan.Prather.Huff
+  # - service: facebook
+  #   username: Facebook
+  #   link: https://www.facebook.com/Bryan.Prather.Huff
   - service: linkedin
     username: Linkedin
     link: https://www.linkedin.com/in/bryan-prather-huff-368116102
