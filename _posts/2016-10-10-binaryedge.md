@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Binary Edge World Security Report
-date: 2016-10-06 23:22:01
+date: 2016-10-10 23:22:01
 author: bryanph
 categories: security
 short_description: Binary Edge scanned and mapped 36 ports on IP's across the globe and analyzed security implications.
