@@ -26,6 +26,9 @@ Administration and support for faculty and staff at the University of Iowa. Expe
 Administrative consultation for a small company with multiple remote locations and employees. Infrastructure development and maintenance, along with data assurance and archival.
 
 ## Awards and Acknowledgements
+**Big Data Hackathon @ The University of Iowa, Iowa City / Oct 9-10th 2016**\\
+First place winner at the first UIowa Hackathon for collaborative work on alternative virtual reality implementations utilizing novel Inside-Out spacial tracking technology.
+
 **Eagle Scout @ Troop 108 Fairfield, Iowa / 2007 - 2013**\\
 Attained the rank of Eagle Scout, the highest honor, in the Boy Scouts of America.
 
