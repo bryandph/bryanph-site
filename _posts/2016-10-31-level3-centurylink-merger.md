@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teenage Hacker Arrested for Disrupting 911 Services with DDoS Attack
+title: CenturyLink to Buy Level 3 for $34 Billion in Cash, Stock
 date: 2016-10-31 13:31:01
 author: bryanph
 categories: market
