@@ -5,8 +5,8 @@
     <description></description>
     <link>https://bryanph.com</link>
     <atom:link href="https://bryanph.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 31 Oct 2016 13:36:56 -0500</pubDate>
-    <lastBuildDate>Mon, 31 Oct 2016 13:36:56 -0500</lastBuildDate>
+    <pubDate>Mon, 31 Oct 2016 13:38:30 -0500</pubDate>
+    <lastBuildDate>Mon, 31 Oct 2016 13:38:30 -0500</lastBuildDate>
     <generator>Jekyll v3.2.0</generator>
     
       <item>
@@ -14,11 +14,24 @@
         <description>
 </description>
         <pubDate>Mon, 31 Oct 2016 08:31:01 -0500</pubDate>
-        <link>https://bryanph.com/security/2016/10/31/raurydevilswhisper.html</link>
-        <guid isPermaLink="true">https://bryanph.com/security/2016/10/31/raurydevilswhisper.html</guid>
+        <link>https://bryanph.com/security/2016/10/31/911-ddos.html</link>
+        <guid isPermaLink="true">https://bryanph.com/security/2016/10/31/911-ddos.html</guid>
         
         
         <category>security</category>
+        
+      </item>
+    
+      <item>
+        <title>Raury - Devil's Whisper</title>
+        <description>
+</description>
+        <pubDate>Wed, 12 Oct 2016 08:37:01 -0500</pubDate>
+        <link>https://bryanph.com/music/2016/10/12/raurydevilswhisper.html</link>
+        <guid isPermaLink="true">https://bryanph.com/music/2016/10/12/raurydevilswhisper.html</guid>
+        
+        
+        <category>music</category>
         
       </item>
     
