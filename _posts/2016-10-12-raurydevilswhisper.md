@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Raury - Devil's Whisper
-date: 2016-10-12 13:37:01
+title: Teenage Hacker Arrested for Disrupting 911 Services with DDoS Attack
+date: 2016-10-31 13:31:01
 author: bryanph
-categories: music
-short_description: Feeling this song right now.
-image_preview: http://res.cloudinary.com/thefader/image/upload/wj4nqlbqbrkd4keaylde.jpg
-external_url: https://www.youtube.com/watch?v=LoI2C6pW9AQ
+categories: security
+short_description: Well then.
+image_preview: https://3.bp.blogspot.com/-N3M37U2P9v0/WBThoJmL1zI/AAAAAAAAqBA/1S2pU5JuzzgGd7QJntmuiqSSjTVppf7YwCLcB/s1600/hacking-911-service.png
+external_url: http://thehackernews.com/2016/10/hacking-911-service.html
 ---
