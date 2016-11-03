@@ -2,7 +2,6 @@
 layout: post
 title: Why I'm Struggling
 date: 2016-11-2 23:06:01
-author: bryanph
 categories: personal
 short_description:
 image_preview: http://www.jasonsummers.org/wp-content/uploads/2012/12/Deep-Thought-11krlic.png
