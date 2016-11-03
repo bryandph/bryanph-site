@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why I'm Struggling
-date: 2016-10-31 13:31:01
+date: 2016-11-2 23:06:01
 author: bryanph
 categories: personal
 short_description:
