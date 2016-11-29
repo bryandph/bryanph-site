@@ -17,7 +17,7 @@ Private grade school with emphasis on personal and lifestyle development through
 
 ## Experience
 **Security Engineer @ ProCircular Inc. / 2016 - Present**\\
-Pentesting and performing vulnerability assessments for small to medium sized companies around the southeast Iowa corridor.
+Penetration testing and vulnerability assessments for small to medium sized companies around the southeast Iowa corridor. Designing and documenting security solutions crafted for the needs of the client.
 
 **Technical Analyst @ The University of Iowa / 2013 - 2016**\\
 Administration and support for faculty and staff at the University of Iowa. Experience with enterprise administrative tools, especially the Microsoft Server suite. A/V engineering with Extron and Crestron embedded solutions.
